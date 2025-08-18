@@ -1,0 +1,181 @@
+Gender,Age,Kids,Politics,Education,Income,Inflation,Unemployment,Response
+Woman,65,2,left-wing,no high school,2500-4000,2.0,10.0,4.50
+Woman,65,2,left-wing,no high school,2500-4000,4.0,10.0,6.50
+Woman,65,2,left-wing,no high school,2500-4000,6.0,10.0,7.50
+Woman,65,2,left-wing,no high school,2500-4000,8.0,10.0,7.50
+Woman,65,2,left-wing,no high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,left-wing,no high school,2500-4000,12.0,10.0,8.50
+Woman,65,2,left-leaning,no high school,2500-4000,2.0,10.0,4.50
+Woman,65,2,left-leaning,no high school,2500-4000,4.0,10.0,6.50
+Woman,65,2,left-leaning,no high school,2500-4000,6.0,10.0,7.50
+Woman,65,2,left-leaning,no high school,2500-4000,8.0,10.0,6.50
+Woman,65,2,left-leaning,no high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,left-leaning,no high school,2500-4000,12.0,10.0,8.50
+Woman,65,2,centre,no high school,2500-4000,2.0,10.0,4.50
+Woman,65,2,centre,no high school,2500-4000,4.0,10.0,2.50
+Woman,65,2,centre,no high school,2500-4000,6.0,10.0,6.50
+Woman,65,2,centre,no high school,2500-4000,8.0,10.0,6.50
+Woman,65,2,centre,no high school,2500-4000,10.0,10.0,6.50
+Woman,65,2,centre,no high school,2500-4000,12.0,10.0,6.50
+Woman,65,2,right-leaning,no high school,2500-4000,2.0,10.0,6.50
+Woman,65,2,right-leaning,no high school,2500-4000,4.0,10.0,6.50
+Woman,65,2,right-leaning,no high school,2500-4000,6.0,10.0,7.50
+Woman,65,2,right-leaning,no high school,2500-4000,8.0,10.0,7.50
+Woman,65,2,right-leaning,no high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,right-leaning,no high school,2500-4000,12.0,10.0,8.50
+Woman,65,2,right-wing,no high school,2500-4000,2.0,10.0,6.50
+Woman,65,2,right-wing,no high school,2500-4000,4.0,10.0,6.50
+Woman,65,2,right-wing,no high school,2500-4000,6.0,10.0,8.50
+Woman,65,2,right-wing,no high school,2500-4000,8.0,10.0,7.50
+Woman,65,2,right-wing,no high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,right-wing,no high school,2500-4000,12.0,10.0,8.50
+Woman,65,2,left-wing,a high school,2500-4000,2.0,10.0,1.50
+Woman,65,2,left-wing,a high school,2500-4000,4.0,10.0,2.50
+Woman,65,2,left-wing,a high school,2500-4000,6.0,10.0,4.50
+Woman,65,2,left-wing,a high school,2500-4000,8.0,10.0,6.50
+Woman,65,2,left-wing,a high school,2500-4000,10.0,10.0,7.50
+Woman,65,2,left-wing,a high school,2500-4000,12.0,10.0,8.50
+Woman,65,2,left-leaning,a high school,2500-4000,2.0,10.0,1.50
+Woman,65,2,left-leaning,a high school,2500-4000,4.0,10.0,2.50
+Woman,65,2,left-leaning,a high school,2500-4000,6.0,10.0,4.50
+Woman,65,2,left-leaning,a high school,2500-4000,8.0,10.0,4.50
+Woman,65,2,left-leaning,a high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,left-leaning,a high school,2500-4000,12.0,10.0,7.50
+Woman,65,2,centre,a high school,2500-4000,2.0,10.0,1.50
+Woman,65,2,centre,a high school,2500-4000,4.0,10.0,1.50
+Woman,65,2,centre,a high school,2500-4000,6.0,10.0,2.50
+Woman,65,2,centre,a high school,2500-4000,8.0,10.0,4.50
+Woman,65,2,centre,a high school,2500-4000,10.0,10.0,7.50
+Woman,65,2,centre,a high school,2500-4000,12.0,10.0,6.50
+Woman,65,2,right-leaning,a high school,2500-4000,2.0,10.0,6.50
+Woman,65,2,right-leaning,a high school,2500-4000,4.0,10.0,7.50
+Woman,65,2,right-leaning,a high school,2500-4000,6.0,10.0,7.50
+Woman,65,2,right-leaning,a high school,2500-4000,8.0,10.0,7.50
+Woman,65,2,right-leaning,a high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,right-leaning,a high school,2500-4000,12.0,10.0,7.50
+Woman,65,2,right-wing,a high school,2500-4000,2.0,10.0,6.50
+Woman,65,2,right-wing,a high school,2500-4000,4.0,10.0,6.50
+Woman,65,2,right-wing,a high school,2500-4000,6.0,10.0,7.50
+Woman,65,2,right-wing,a high school,2500-4000,8.0,10.0,6.50
+Woman,65,2,right-wing,a high school,2500-4000,10.0,10.0,8.50
+Woman,65,2,right-wing,a high school,2500-4000,12.0,10.0,8.50
+Woman,65,2,left-wing,a college,2500-4000,2.0,10.0,1.50
+Woman,65,2,left-wing,a college,2500-4000,4.0,10.0,2.50
+Woman,65,2,left-wing,a college,2500-4000,6.0,10.0,4.50
+Woman,65,2,left-wing,a college,2500-4000,8.0,10.0,4.50
+Woman,65,2,left-wing,a college,2500-4000,10.0,10.0,8.50
+Woman,65,2,left-wing,a college,2500-4000,12.0,10.0,8.50
+Woman,65,2,left-leaning,a college,2500-4000,2.0,10.0,1.50
+Woman,65,2,left-leaning,a college,2500-4000,4.0,10.0,2.50
+Woman,65,2,left-leaning,a college,2500-4000,6.0,10.0,2.50
+Woman,65,2,left-leaning,a college,2500-4000,8.0,10.0,6.50
+Woman,65,2,left-leaning,a college,2500-4000,10.0,10.0,8.50
+Woman,65,2,left-leaning,a college,2500-4000,12.0,10.0,8.50
+Woman,65,2,centre,a college,2500-4000,2.0,10.0,1.50
+Woman,65,2,centre,a college,2500-4000,4.0,10.0,1.50
+Woman,65,2,centre,a college,2500-4000,6.0,10.0,2.50
+Woman,65,2,centre,a college,2500-4000,8.0,10.0,2.50
+Woman,65,2,centre,a college,2500-4000,10.0,10.0,6.50
+Woman,65,2,centre,a college,2500-4000,12.0,10.0,6.50
+Woman,65,2,right-leaning,a college,2500-4000,2.0,10.0,1.50
+Woman,65,2,right-leaning,a college,2500-4000,4.0,10.0,7.50
+Woman,65,2,right-leaning,a college,2500-4000,6.0,10.0,7.50
+Woman,65,2,right-leaning,a college,2500-4000,8.0,10.0,6.50
+Woman,65,2,right-leaning,a college,2500-4000,10.0,10.0,8.50
+Woman,65,2,right-leaning,a college,2500-4000,12.0,10.0,8.50
+Woman,65,2,right-wing,a college,2500-4000,2.0,10.0,6.50
+Woman,65,2,right-wing,a college,2500-4000,4.0,10.0,7.50
+Woman,65,2,right-wing,a college,2500-4000,6.0,10.0,7.50
+Woman,65,2,right-wing,a college,2500-4000,8.0,10.0,7.50
+Woman,65,2,right-wing,a college,2500-4000,10.0,10.0,8.50
+Woman,65,2,right-wing,a college,2500-4000,12.0,10.0,8.50
+Woman,65,2,left-wing,no high school,more than 4000,2.0,10.0,6.50
+Woman,65,2,left-wing,no high school,more than 4000,4.0,10.0,6.50
+Woman,65,2,left-wing,no high school,more than 4000,6.0,10.0,7.50
+Woman,65,2,left-wing,no high school,more than 4000,8.0,10.0,6.50
+Woman,65,2,left-wing,no high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,left-wing,no high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,left-leaning,no high school,more than 4000,2.0,10.0,6.50
+Woman,65,2,left-leaning,no high school,more than 4000,4.0,10.0,6.50
+Woman,65,2,left-leaning,no high school,more than 4000,6.0,10.0,6.50
+Woman,65,2,left-leaning,no high school,more than 4000,8.0,10.0,7.50
+Woman,65,2,left-leaning,no high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,left-leaning,no high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,centre,no high school,more than 4000,2.0,10.0,1.50
+Woman,65,2,centre,no high school,more than 4000,4.0,10.0,2.50
+Woman,65,2,centre,no high school,more than 4000,6.0,10.0,6.50
+Woman,65,2,centre,no high school,more than 4000,8.0,10.0,6.50
+Woman,65,2,centre,no high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,centre,no high school,more than 4000,12.0,10.0,6.50
+Woman,65,2,right-leaning,no high school,more than 4000,2.0,10.0,6.50
+Woman,65,2,right-leaning,no high school,more than 4000,4.0,10.0,7.50
+Woman,65,2,right-leaning,no high school,more than 4000,6.0,10.0,7.50
+Woman,65,2,right-leaning,no high school,more than 4000,8.0,10.0,8.50
+Woman,65,2,right-leaning,no high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,right-leaning,no high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,right-wing,no high school,more than 4000,2.0,10.0,6.50
+Woman,65,2,right-wing,no high school,more than 4000,4.0,10.0,7.50
+Woman,65,2,right-wing,no high school,more than 4000,6.0,10.0,8.50
+Woman,65,2,right-wing,no high school,more than 4000,8.0,10.0,8.50
+Woman,65,2,right-wing,no high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,right-wing,no high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,left-wing,a high school,more than 4000,2.0,10.0,1.50
+Woman,65,2,left-wing,a high school,more than 4000,4.0,10.0,2.50
+Woman,65,2,left-wing,a high school,more than 4000,6.0,10.0,2.50
+Woman,65,2,left-wing,a high school,more than 4000,8.0,10.0,7.50
+Woman,65,2,left-wing,a high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,left-wing,a high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,left-leaning,a high school,more than 4000,2.0,10.0,1.50
+Woman,65,2,left-leaning,a high school,more than 4000,4.0,10.0,2.50
+Woman,65,2,left-leaning,a high school,more than 4000,6.0,10.0,3.50
+Woman,65,2,left-leaning,a high school,more than 4000,8.0,10.0,4.50
+Woman,65,2,left-leaning,a high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,left-leaning,a high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,centre,a high school,more than 4000,2.0,10.0,1.50
+Woman,65,2,centre,a high school,more than 4000,4.0,10.0,1.50
+Woman,65,2,centre,a high school,more than 4000,6.0,10.0,2.50
+Woman,65,2,centre,a high school,more than 4000,8.0,10.0,2.50
+Woman,65,2,centre,a high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,centre,a high school,more than 4000,12.0,10.0,7.50
+Woman,65,2,right-leaning,a high school,more than 4000,2.0,10.0,6.50
+Woman,65,2,right-leaning,a high school,more than 4000,4.0,10.0,6.50
+Woman,65,2,right-leaning,a high school,more than 4000,6.0,10.0,7.50
+Woman,65,2,right-leaning,a high school,more than 4000,8.0,10.0,7.50
+Woman,65,2,right-leaning,a high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,right-leaning,a high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,right-wing,a high school,more than 4000,2.0,10.0,6.50
+Woman,65,2,right-wing,a high school,more than 4000,4.0,10.0,7.50
+Woman,65,2,right-wing,a high school,more than 4000,6.0,10.0,8.50
+Woman,65,2,right-wing,a high school,more than 4000,8.0,10.0,7.50
+Woman,65,2,right-wing,a high school,more than 4000,10.0,10.0,8.50
+Woman,65,2,right-wing,a high school,more than 4000,12.0,10.0,8.50
+Woman,65,2,left-wing,a college,more than 4000,2.0,10.0,1.50
+Woman,65,2,left-wing,a college,more than 4000,4.0,10.0,2.50
+Woman,65,2,left-wing,a college,more than 4000,6.0,10.0,2.75
+Woman,65,2,left-wing,a college,more than 4000,8.0,10.0,7.50
+Woman,65,2,left-wing,a college,more than 4000,10.0,10.0,8.50
+Woman,65,2,left-wing,a college,more than 4000,12.0,10.0,8.50
+Woman,65,2,left-leaning,a college,more than 4000,2.0,10.0,1.50
+Woman,65,2,left-leaning,a college,more than 4000,4.0,10.0,2.50
+Woman,65,2,left-leaning,a college,more than 4000,6.0,10.0,2.50
+Woman,65,2,left-leaning,a college,more than 4000,8.0,10.0,2.50
+Woman,65,2,left-leaning,a college,more than 4000,10.0,10.0,8.50
+Woman,65,2,left-leaning,a college,more than 4000,12.0,10.0,8.50
+Woman,65,2,centre,a college,more than 4000,2.0,10.0,1.50
+Woman,65,2,centre,a college,more than 4000,4.0,10.0,1.50
+Woman,65,2,centre,a college,more than 4000,6.0,10.0,2.50
+Woman,65,2,centre,a college,more than 4000,8.0,10.0,2.50
+Woman,65,2,centre,a college,more than 4000,10.0,10.0,6.50
+Woman,65,2,centre,a college,more than 4000,12.0,10.0,7.50
+Woman,65,2,right-leaning,a college,more than 4000,2.0,10.0,6.50
+Woman,65,2,right-leaning,a college,more than 4000,4.0,10.0,7.50
+Woman,65,2,right-leaning,a college,more than 4000,6.0,10.0,7.50
+Woman,65,2,right-leaning,a college,more than 4000,8.0,10.0,7.50
+Woman,65,2,right-leaning,a college,more than 4000,10.0,10.0,8.50
+Woman,65,2,right-leaning,a college,more than 4000,12.0,10.0,8.50
+Woman,65,2,right-wing,a college,more than 4000,2.0,10.0,6.50
+Woman,65,2,right-wing,a college,more than 4000,4.0,10.0,7.50
+Woman,65,2,right-wing,a college,more than 4000,6.0,10.0,7.50
+Woman,65,2,right-wing,a college,more than 4000,8.0,10.0,7.50
+Woman,65,2,right-wing,a college,more than 4000,10.0,10.0,8.50
+Woman,65,2,right-wing,a college,more than 4000,12.0,10.0,8.50
